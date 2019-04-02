@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OddEven Checker</string>
+    <string name="hello_text">Input number</string>
+    <string name="error_text">This is not a number</string>
+    <string name="text_odd">Odd</string>
+    <string name="text_even">Even</string>
+</resources>
